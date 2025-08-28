@@ -45,16 +45,20 @@ The app allows users to view and customize a text-based resume fetched from an A
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/resume_generator.git
-
-# Navigate to project
+mkdir resume_generator
 cd resume_generator
+git clone https://github.com/Harsh4114/ResumeGenerator
+
+
 
 # Install dependencies
 flutter pub get
 
 # Run the app
 flutter run
+
+# Open VS code
+code
 ```
 
 ---
